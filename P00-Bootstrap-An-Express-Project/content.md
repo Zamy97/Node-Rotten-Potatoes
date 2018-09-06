@@ -117,7 +117,7 @@ You should see "Portfolio App listening on port 3000!" output in your terminal. 
 
 Now let's add our templating engine Handlebars.js so our Express.js server can render _server-side HTML templates_.
 
-Instal Handlebars.js to your review.
+Install Handlebars.js to your review.
 
 ```bash
 $ npm install express-handlebars --save
